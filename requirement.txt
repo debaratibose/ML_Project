@@ -1,0 +1,5 @@
+stramlit
+pandas
+seaborn
+scikit-learn
+
